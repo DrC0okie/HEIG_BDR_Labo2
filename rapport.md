@@ -1,12 +1,12 @@
 # BDR : Laboratoire n⁰ 2 - Exercices d’approfondissement Implémentation d’un schéma relationnel
 
-## Exercice 1
+Thomas Germano, Timothee Van Hove
 
 ### Exercice 1.3
 
 #### Exercice 1.3.1
 
-`Insérez les projets numéro 3 et 5 dans la table works_on pour l’employé avec le ssn = '123456789' et attribuez 10 heures de travail sur chaque projet. Indiquez les commandes SQL utilisées. Que constatez-vous ? Critiquez et commentez le résultat obtenu.`
+`Insérez les projets numéro 3 et 5 dans la table works_on pour l’employé avec le ssn = '123456789' et attribuez 10 heures de travail sur chaque projet. Indiquez les commandes SQL utilisées. Que constatez-vous ? Critiquez et commentez le résultat obtenu.` 
 
 ##### Commandes :
 
@@ -45,7 +45,7 @@ bdr.public> DELETE FROM departement where dnumber = 5
 
 tout s'est bien passé car pour le moment il n'y a pas de clés étrangères liées à ce département
 
-### Exercice 1.4
+ ### Exercice 1.4
 
 #### Exercice 1.4.1
 
